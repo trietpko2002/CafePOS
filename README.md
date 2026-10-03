@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td width="110" align="center">
-        <img src="assets/cafepos-logo.png" alt="CafePOS Logo" width="96" />
+        <img src="cafepos-logo.png" alt="CafePOS Logo" width="96" />
       </td>
       <td align="left">
         <h1>☕ CafePOS — Hệ thống quản lý bán hàng cho F&amp;B</h1>
