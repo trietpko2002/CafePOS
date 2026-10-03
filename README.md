@@ -1,9 +1,15 @@
 <div align="center">
-
-# ☕ CafePOS — Hệ thống quản lý bán hàng cho F&B
-
-**POS bán hàng · Quản lý bàn · KDS bếp · Kho & kế toán · Báo cáo · Multi-device LAN**
-
+  <table>
+    <tr>
+      <td width="110" align="center">
+        <img src="assets/cafepos-logo.png" alt="CafePOS Logo" width="96" />
+      </td>
+      <td align="left">
+        <h1>☕ CafePOS — Hệ thống quản lý bán hàng cho F&amp;B</h1>
+        <p><strong>POS bán hàng · Quản lý bàn · KDS bếp · Kho &amp; kế toán · Báo cáo · Multi-device LAN</strong></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ![CafePOS - Màn hình bán hàng](screenshots/03-pos.png)
